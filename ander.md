@@ -1,0 +1,5 @@
+# MIS NOTAS PERSONALES
+
+- Yo
+- Tu
+- El
